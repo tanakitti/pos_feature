@@ -1,15 +1,15 @@
 # pos_feature
 
 ## Text_to_tokens
-- remove nomalize
-- remove duplicate
+- nomalize
+- remove duplicate ending character
 - remove url
 - remove cr
 - remove unwanted character
-- remove spaces
+- remove stopwords
+- to lowercase
 - tokenize
-- remove Stopword
-- check Upper case topic
+- remove space 
 
 ## pos_filter_noun
 - filter noun from pos to find topics
