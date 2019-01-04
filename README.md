@@ -1,18 +1,13 @@
-# pos_feature
+# pos_feature_project
 
-## Text_to_tokens
-- nomalize
-- remove duplicate ending character
-- remove url
-- remove cr
-- remove unwanted character
-- remove stopwords
-- to lowercase
-- tokenize
-- remove space 
+## Clean_text
+- Find keyword and type of a question sentence from Thai language
 
-## pos_filter_noun
-- filter noun from pos to find topics
+## KNN 
+- Find similarity between 2 sentence by giving Jaccard score and Cosine similarity
 
-## fine_ques_type
-- find type of question sentence
+## nlp_English 
+- Find keywords and type of a question sentence by translate thai the Thai sentence into the English sentence Then process that sentence
+
+## process_stopword 
+- Filter the stopword accoding to the list
